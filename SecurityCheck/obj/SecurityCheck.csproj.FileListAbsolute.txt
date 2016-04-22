@@ -1,0 +1,8 @@
+C:\devel\microsoft.net\vs2005\SecurityCheck\SecurityCheck\bin\SecurityCheck.dll
+C:\devel\microsoft.net\vs2005\SecurityCheck\SecurityCheck\bin\SecurityCheck.pdb
+C:\devel\microsoft.net\vs2005\SecurityCheck\SecurityCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\devel\microsoft.net\vs2005\SecurityCheck\SecurityCheck\obj\Debug\SecurityCheck.dll
+C:\devel\microsoft.net\vs2005\SecurityCheck\SecurityCheck\obj\Debug\SecurityCheck.pdb
+C:\devel\microsoft.net\vs2005\SecurityCheck\SecurityCheck\bin\log4net.dll
+C:\devel\microsoft.net\vs2005\SecurityCheck\SecurityCheck\bin\Message.Resources.dll
+C:\devel\microsoft.net\vs2005\SecurityCheck\SecurityCheck\bin\Newtonsoft.Json.dll
